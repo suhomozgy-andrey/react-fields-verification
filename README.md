@@ -7,7 +7,7 @@
 Describe react-fields-verification here.
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/user/repo
+[build]: https://travis-ci.org/suhomozgy-andrey/react-fields-verification
 
 [npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
 [npm]: https://www.npmjs.org/package/npm-package
